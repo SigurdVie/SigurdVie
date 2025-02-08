@@ -1,14 +1,14 @@
 ## Hello! 👋
 
-My name is Sigurd Vie, also commonly known as MrCenny on the interwebs.
+My name is Sigurd, i usually go by the online alias of "MrCenny".
 
-I do not code that often, and only code as a hobby and to challange my thinking juices.
+I am mostly here on GitHub to learn new stuff, and refine my coding knowledge.
 
-I come from the middle of Norway, aka. Trøndelag.
+I am interested in new technologies and want to try theese out.
 
-I am a tad bit knowledgable about GoHUGO, but would no call myself a professional in the craft of static websitemaking.
+I come from Norway, but currently live in Longyearbyen on Svalbard.
 
-Projects I am currently helping on are:
+Projects I have helped on:
  - [Fedihosting Foundation's Main Page](https://fedihosting.foundation)
 
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/110799947563343337?domain=https%3A%2F%2Fmastodon.world&style=social)](https://mastodon.world/@sigurdvie)
