@@ -6,7 +6,7 @@ I am mostly here on GitHub to learn new stuff, and refine my coding knowledge.
 
 I am interested in new technologies and want to try theese out.
 
-I come from Norway, but currently live in Longyearbyen on Svalbard.
+I come from Norway, and is currently living in Trondheim.
 
 Projects I have helped on:
  - [Fedihosting Foundation's Main Page](https://fedihosting.foundation)
